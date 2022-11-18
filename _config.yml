@@ -1,17 +1,17 @@
-title: Data Chefs' Creative DataViz Pilot Project
+title: Creative DataViz Pilot Project
 author: Anders Schneiderman
 email: your-email@domain.com
 description:  Pilot to explore building a creative dataviz ecosystem that helps nonprofits and the community
 
 # Menu data for sitewide navigation
 navigation_links:
-  - name: About
-    link: 'about/'
-  # - name: Principles
+  # - name: About
+  #   link: 'about/'
+  # # - name: Principles
     # link: 'principles/'
-  - name: Strategies
-    link: 'strategies/'
-  # - name: Blog
+  # - name: Strategies
+  #   link: 'strategies/'
+  # # - name: Blog
   #   link: 'blog/'
   # # - name: Links
     # link: 'links'
