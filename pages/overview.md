@@ -22,7 +22,7 @@ As a result, we believe we are at the point where we could foster a diverse ecos
 - __Coding over Point-And-Click__
   - Many DataViz tools are like microwaving Hot Pockets: you can create great bar charts or even dashboards, but you are limited to what the tool was designed to do. 
   - Our goal: create a set of resources that are more like baking cookies or cupcakes: you don't have to be a professional to get great results, you have a lot more flexibility, and it's far easier to develop your skills over time.  
-  - To make this work, we will create lightweight libraries on top of existing JavaScript libraries to make it substantially less intimidating to get started while still leaving plenty of room to spread your wings over time.
+  - To do so, we will create lightweight libraries on top of existing JavaScript libraries to make it substantially less intimidating to get started while still leaving plenty of room to spread your wings over time.
 
 ### The Pilot
 
@@ -33,6 +33,6 @@ Here's how the pilot will work:
 - Select 2-3 grassroots-oriented nonprofits who are interested in experimenting and who are willing to set realistic expectations. At least 2 of these grassroots groups should have multiple chapters, ideally in several states, so they provide an opportunity to explore what it would take to build creative DataViz at scale.
 - Work with each of these grassroots groups to iteratively develop 1 or 2 concepts for a creative DataViz, ideally one that can be used by multiple chapters/organizations
 - Drawing on networks of graphic designers and developers, recruit 2 teams of volunteers:
-  - A team to work with the pilot groups
+  - A team to work with the pilot  grassroots groups to iteratively develop the creative  DataViz
   - A team to play with several JavaScript graphic libraries and create a set of examples that can be used both to help grassroots groups understand what's possible and to get a better feel of what's easy and hard to do
-- After several months, reflect on what we've learned and figure out next steps
+- After several months, reflect on what we've learned and figure out next steps, such as what infrastructure would be needed (e.g., training materials & cheat sheets)

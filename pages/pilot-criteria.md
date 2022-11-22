@@ -15,3 +15,4 @@ What We Are Looking for:
 What We Aren't Worrying about for Now:
 - __Goal-Oriented__: In the long run, with every creative DataViz we want to ensure that we are clear about our goal and how the DataViz will try to achieve it. But right now, we are just getting our feet wet. Trying to figure out what makes for a good creative DataViz and what works best for your audience and nailing a goal is way too much pressure.
 - __UX Usability__: If we dramatically reduce the friction involved in creating a new creative DataViz, will be much easier to end up with DataViz that really grab people's attention, engage them in thinking and wrestling with trade-offs (where appropriate), etc. So if it doesn't pass a good usability checklist right now, that's okay
+
