@@ -18,7 +18,7 @@ As a result, we believe we are at the point where we could foster a diverse ecos
 
 ### Assumptions
 - __Operating at Scale__. Our goal is to make it possible for hundreds or thousands of grassroots groups to be able to easily build creative DataViz. So from the start we need to  take at least some  baby steps towards exploring what it might take to scale up.
-- __Adventurous Beginners__. This pilot project is focused on empowering people we call "adventurous beginners": people who are at least reasonably fluent at using Excel or Google Sheets to muck around with data and who while they may not know anything about coding are excited about the chance to play and learn.
+- __Adventurous Beginners__. This pilot project is focused on empowering people we call "adventurous beginners":  staff or members who are at least reasonably fluent at using Excel or Google Sheets to muck around with data and who while they may not know anything about coding are excited about the chance to play and learn.
 - __Coding over Point-And-Click__
   - Many DataViz tools are like microwaving Hot Pockets: you can create great bar charts or even dashboards, but you are limited to what the tool was designed to do. 
   - Our goal: create a set of resources that are more like baking cookies or cupcakes: you don't have to be a professional to get great results, you have a lot more flexibility, and it's far easier to develop your skills over time.  
