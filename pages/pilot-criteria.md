@@ -1,7 +1,7 @@
 ---
 title: What Makes for a Good Creative DataViz for This Pilot?
 layout: content
-image: cupcakes-fancy-white-pink.jpg
+image: make-baking.jpg
 ---
 
 For the pilot project to succeed, we need to pick examples that push things enough so we learn from them but are manageable enough so odds are we will succeed. Here's what we'll need:

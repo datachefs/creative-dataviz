@@ -4,30 +4,32 @@ layout: content
 image: cupcakes-fancy-white-pink.jpg
 ---
 
+### The Vision 
 
-Back before everything was digital, many organizers routinely drew pictures or used objects like pennies to turn data into stories. Now that most data is electronic, it’s much less common. And when people do it, it tends to be expensive and a one-off.
+Back before everything was digital, many organizers routinely drew pictures or used objects like pennies, toys, etc. to turn data into stories. Now that most data is electronic, it’s much less common. And when people do attempt to make creative data visualizations, it tends to be expensive and a one-off.
 
 But in the past few years, two changes have opened up some interesting opportunities:
-- New free tech -- e.g., open source JavaScript libraries such as p5.js and BablyonJS -- that can produce amazing graphics, and based on our experience in the field, we believe these libraries could be modified so that an adventurous beginner could easily use them
+- New free tech -- e.g., open source JavaScript libraries such as [p5.js](https://p5js.org/) and [BablyonJS](https://www.babylonjs.com/) -- that can produce amazing graphics and animation
 - New global networks of liberal and progressive artists and graphic designers who are fired up about working with the community. 
 
-As a result, we believe we are at the point where we could foster a diverse community/ecosystem that could:
-- Make it radically easier for grassroots organizations to produce creative DataViz that could be used for community & union organizing, union bargaining – especially Bargaining for the Common Good -- and fundraising
-- Create opportunities for progressive artists & graphic designers -- especially those from marginalized communities --  to partially support themselves with a steady stream of paid work from large nonprofits as well as eventually from corporations and governments
+As a result, we believe we are at the point where we could foster a diverse ecosystem that could:
+- Make it radically easier for grassroots organizations to produce creative DataViz that could be used in community organizing, union organizing & bargaining, and fundraising
+- Help support progressive artists & graphic designers, especially those from marginalized communities, by creating a stream of paid work from large nonprofits as well as other opportunities 
 
 ### Assumptions
+- __Operating at Scale__. Our goal is to make it possible for hundreds or thousands of grassroots groups to be able to easily build creative DataViz. So any pilot project needs to at least take some tiny steps towards exploring what it might take to scale up.
+- __Adventurous Beginners__. This pilot project is focused on empowering people we call "adventurous beginners": people who are at least reasonably fluent at using Excel or Google Sheets to muck around with data and who while they may not know anything about coding are excited about the chance to play and learn.
+- __Code over Point-And-Click__. Many DataViz tools are like microwaving Hot Pockets: you can create great bar charts or even dashboards, but you are limited to what the tool was designed to do. Our goal is to create a set of resources that are more like baking cookies or cupcakes: you don't have to be a professional to get great results, but you have a lot more flexibility in what you can do, and it's far easier to develop your skills over time.  That doesn't mean we intend to inflict our adventurous beginners with pretty geeky JavaScript libraries. Part of our goal is to create lightweight libraries on top of existing ones that make it substantially less intimidating to get started while still leaving plenty of room to spread your wings over time.
 
-{why point-and-click is not the way to go}
+### The Pilot
 
-### Pilot Goals and Process
+This project is pretty ambitious. How do we even begin?  By running a pilot project to get our feet wet, test some of the assumptions, and start learning from experience what's easy and hard to do.
 
+So, we are proposing the following pilot:
 
- 
-
-### Examples
-
-Here's a page with a few examples I’ve played around with. As will be obvious, I am a terrible graphic designer; these were just quick and dirty proof of concepts about what it would take. To get a better sense of what in general JavaScript libraries can do these days, here are some example of simple animation from a class I taught at the American Speech Language and Hearing Association (ASHA) in d3js, an earlier JavaScript library that would we wouldn’t use now – it’s too damn hard – but gives you a sense of what’s possible.
-
- 
-
-
+- Select 2-3 grassroots-oriented nonprofits who are interested in experimenting and who are willing to set realistic expectations. At least 2 of these grassroots groups should have multiple chapters, ideally in several states, so they provide an opportunity to explore what it would take to build creative DataViz at scale.
+- Work with each of these grassroots groups to iteratively develop 1 or 2 concepts for a creative DataViz, ideally one that can be used by multiple chapters/organizations
+- Drawing on networks of graphic designers and developers, recruit 2 teams of volunteers:
+  - A team to work with the pilot groups
+ - A team to play around with several JavaScript graphic libraries and create a set of examples that can be used both to grassroots groups understand what's possible and to get a better feel overall of what's easy and hard to do
+- After several months, reflect on what we've learned and figure out next steps

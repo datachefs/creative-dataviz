@@ -1,7 +1,7 @@
 ---
 # title: Welcome to  The Pilot Project!
 layout: content
-image: cupcakes-fancy-white-pink.jpg
+image: cookies-dataviz.jpg
 ---
 
 This site has all of the documents, etc. about the creative data visualization pilot project:

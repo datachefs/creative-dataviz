@@ -1,7 +1,7 @@
 ---
 title: Code Examples
 layout: content
-image: cupcakes-fancy-white-pink.jpg
+image: muffins-brown.jpg
 ---
 
 
