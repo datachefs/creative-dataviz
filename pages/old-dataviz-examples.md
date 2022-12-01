@@ -11,6 +11,7 @@ image: cookies-dataviz.jpg
 [p5.js](https://p5js.org/) is a web-based JavaScript version of [Processing](https://processing.org/), "a language for learning how to code within the context of the visual arts."
 
 - Using [flowers](http://makersall.org/playful-coding/pages/p5js/flowers1/index.html) for a progress report
+- Using [ New flowers](examples/p5js/flowers/index.html) for a progress report
   
 
 
