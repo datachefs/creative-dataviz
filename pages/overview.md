@@ -12,7 +12,7 @@ But in the past few years, two changes have opened up some interesting opportuni
 - New free tech -- e.g., open source JavaScript libraries such as [p5.js](https://p5js.org/) and [BablyonJS](https://www.babylonjs.com/) -- that can produce amazing graphics and animation
 - New global networks of liberal and progressive artists and graphic designers who are fired up about working with the community. 
 
-As a result, we believe we are at the point where we could foster a diverse ecosystem that could:
+As a result, we believe we are at the point where we could foster a diverse, community-oriented  ecosystem that could:
 - Make it radically easier for grassroots organizations to produce creative DataViz that could be used in community organizing, union organizing & bargaining, and fundraising
 - Help support progressive artists & graphic designers, especially those from marginalized communities, by creating a stream of paid work from large nonprofits as well as other opportunities 
 
