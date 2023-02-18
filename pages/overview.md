@@ -14,7 +14,7 @@ But in the past few years, two changes have opened up some interesting opportuni
 
 As a result, we believe we are at the point where we could foster a diverse, community-oriented  ecosystem that could:
 - Make it radically easier for grassroots organizations to produce creative DataViz that could be used in community organizing, union organizing & bargaining, and fundraising
-- Help support progressive artists & graphic designers, especially those from marginalized communities, by creating a stream of paid work from large nonprofits as well as other opportunities 
+- Explore helping support progressive artists & graphic designers, especially those from marginalized communities, by creating a stream of paid work from large nonprofits as well as other opportunities 
 
 ### Assumptions
 - __Operating at Scale__. Our goal is to make it possible for hundreds or thousands of grassroots groups to be able to easily build creative DataViz. So from the start we need to  take at least some  baby steps towards exploring what it might take to scale up.
@@ -34,7 +34,7 @@ So, we are going to use a less than ideal approach to make sure that in 20 month
 
 1) Recruit a design team consisting of experienced graphic designers, artists, and JavaScript developers, some of whom have experience working with/on large-scale grassroots campaigns
 
-2) Iteratively develop a few concepts of creative DataVizes, ideally that could be used by multiple chapters/stations, and explore JavaScript graphic libraries to map out our options
+2) Iteratively develop a few concepts of creative DataVizes, ideally that could be used by multiple chapters/states, and explore JavaScript graphic libraries to map out our options
 
 3) Develop a proof of concept consisting of examples that can be used to 
   - Help grassroots groups understand what's possible and give them something to react to
