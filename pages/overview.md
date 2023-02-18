@@ -6,14 +6,14 @@ image: cupcakes-fancy-white-pink.jpg
 
 ### The Vision 
 
-Back before everything was digital, many organizers routinely used pictures or objects like pennies, toys, etc. to turn data into stories. Now that most data is electronic, it’s much less common.  And creative data visualizations are often expensive to create and difficult to reuse.
+Back before everything was digital, many organizers routinely used pictures or objects like pennies, toys, etc. to turn data into stories. Now that most data is electronic, it’s much less common.  And these days, truly creative data visualizations are often expensive to create and difficult to reuse.
 
 But the past few years have opened up some interesting opportunities:
 - New free tech -- e.g., open source JavaScript libraries such as [p5.js](https://p5js.org/) and [BablyonJS](https://www.babylonjs.com/) -- that can produce amazing graphics and animation
 - New global networks of liberal and progressive artists and graphic designers who are fired up about working with the community. 
 
 As a result, we believe we are at the point where we could foster a diverse, community-oriented  ecosystem that could:
-- Make it radically easier for grassroots organizations to produce creative DataViz that could be used in community organizing, union organizing & bargaining, and fundraising
+- Make it radically easier for grassroots organizations to produce creative DataViz that could be used in community organizing, political organizing, union organizing & bargaining, and fundraising
 - Potentially support progressive artists & graphic designers, especially those from marginalized communities, by creating a stream of paid work from large nonprofits as well as other opportunities 
 
 ### Core Assumptions
@@ -23,20 +23,20 @@ As a result, we believe we are at the point where we could foster a diverse, com
 
 ### The Pilot
 
-In an ideal world, we would test out this idea by working closely with 2-3 grassroots organizations, some of which have multiple chapters in the several states, to iteratively build some experiments. But as initial conversations have demonstrated, even groups who are fired up about the idea of creative dataviz at scale simply don't have the focus/bandwidth right now.  And given how critical the 2024 elections are, realistically they won't have the room to focus until early 2025.
+In an ideal world, we would test out this idea by working closely with 2-3 grassroots organizations, some of which had chapters in several states. But as initial conversations have demonstrated, even groups who are fired up about the idea of creative dataviz at scale simply don't have the focus/bandwidth right now.  And given how critical the 2024 elections are, realistically they won't have the room to do so until early 2025.
 
 So, we are going to use a less than ideal approach to ensure that when these groups are able to focus, we've made some headway and have some concrete examples to spark their imagination. Here's how the pilot will work:
 
 1) Recruit a small design team of volunteers who are experienced graphic designers, artists, and JavaScript developers, some of whom have experience working with/on large-scale grassroots campaigns
 
-2) Based on our understanding of typical campaign needs and some brief conversations with grassroots groups,itteratively develop a few concepts of creative DataVizes, ideally that could be used by multiple chapters/states, and explore a few JavaScript graphic libraries to see what might best fir our needs
+2) Based on our understanding of typical organizing needs and some brief conversations with grassroots groups, iteratively develop a few concepts of creative DataVizes, ideally that could be used by multiple chapters or states, and explore a few JavaScript graphic libraries to see what might best fit our needs
 
 3) Develop a proof of concept consisting of examples that can be used to 
-  - Help grassroots groups understand what's possible and give them something to react to
-  - Help us get a better feel of what's easy and hard to do
+  - Help grassroots groups understand what's possible and give them something concrete to react to
+  - Give us a better feel for what's easy and hard to do
 
 In creating these examples, we will also develop draft versions of:
-- A v0.5 lightweight JavaScript library
+- A v0.1 lightweight JavaScript library
 - Quick and dirty draft training materials / cheat sheets
 - Sample creative assets that could be used to easily create variations of these examples -- e.g., for a Halloween version of a monthly state-by-state report
 
