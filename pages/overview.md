@@ -40,7 +40,7 @@ In creating these examples, we will also develop draft versions of:
 - Quick and dirty draft training materials / cheat sheets
 - Sample creative assets that could be used to easily create variations of these examples -- e.g., for a Halloween version of a monthly state-by-state report
 
-4) Reflect, Iterate
+4) Figure Out Next Steps
 - Reflect on what we've learned 
-- Figure out which grassroots groups and/or networks of grassroots groups we'll collaborate with to test out what we've built so far
-- Consider how newly emerging AI tech -- chatgpt, [Hex Magic](https://hex.tech/magic, etc -- might influence where the project is headed
+- Figure out which grassroots groups and/or networks of grassroots groups we'll collaborate with to test out what we've built
+- Consider how newly AI -- chatgpt, [Hex Magic](https://hex.tech/magic, etc -- might eventually influence where the project is headed
