@@ -11,3 +11,9 @@ Can we create an ecosystem that could make it radically easier for thousands of 
 - [Notes](pages/old-notes.html) from previous pilot projects, including examples of what  [DataViz code](pages/code-examples.html) might look like and quick-and-dirty [explorations](pages/old-dataviz-examples.html) of creative DataViz
 
 [DRAFT]
+
+-------
+
+
+[ Goal, to get people to start thinking playfully and creatively around data in a way that can scale.
+From tricked out cars to fingernail art to YouTube videos of schoolteachers hacking Google slides for cool interactive stuff ]

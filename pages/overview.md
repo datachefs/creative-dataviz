@@ -1,7 +1,7 @@
 ---
 title: Pilot Project Overview
 layout: content
-image: cupcakes-fancy-white-pink.jpg
+image: cookies-dataviz.jpg
 ---
 
 ### The Vision 
