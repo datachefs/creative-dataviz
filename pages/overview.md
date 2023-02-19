@@ -43,4 +43,4 @@ In creating these examples, we will also develop draft versions of:
 4) Figure Out Next Steps
 - Reflect on what we've learned 
 - Figure out which grassroots groups and/or networks of grassroots groups we'll collaborate with to test out what we've built
-- Consider how newly AI -- chatgpt, [Hex Magic](https://hex.tech/magic, etc -- might eventually influence where the project is headed
+- Consider how the new generation of AI -- eg, [Hex Magic](https://hex.tech/magic) -- might eventually influence where the project is headed
