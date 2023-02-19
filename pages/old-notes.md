@@ -1,7 +1,7 @@
 ---
 title:  Notes from Old, Related Projects
 layout: content
-image: cupcakes-reflection.jpg
+image: cookies-dataviz.jpg
 ---
 
  Over the years, I've occasionally noodled around with experiments in creative data viz. Here are a few links to efforts, just in case I need them:
