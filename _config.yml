@@ -1,20 +1,19 @@
-title: Creative DataViz Pilot Project
+title: Talon for Dragon Users
 author: Anders Schneiderman
 email: your-email@domain.com
-description:  Pilot to explore building a creative dataviz ecosystem that helps nonprofits and the community
+description:  Switching to Talon
 
 # Menu data for sitewide navigation
 navigation_links:
-  # - name: About
-  #   link: 'about/'
-  # # - name: Principles
-    # link: 'principles/'
+  - name: Setting Up
+    link: 'about/'
+  - name: Scripting
+    link: 'pages/scripting/scripting-talon.html'
   # - name: Strategies
   #   link: 'strategies/'
   # # - name: Blog
   #   link: 'blog/'
   # # - name: Links
     # link: 'links'
-  - name: Data Chefs
-    link: 'https://datachefs.org/'
+
 

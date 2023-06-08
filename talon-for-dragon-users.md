@@ -1,19 +1,4 @@
----
-# title: Welcome to  Talon Notes!
-layout: home
-# image: site-banner.jpg
----
-
-# Welcome to Talon for Dragon Users
-
-Welcome to Talon for Dragon Users, aka my notes dump for switching from Dragon + Vocola to Talon.
-
-- [Criteria](pages/pilot-criteria.html) 
-
-
-- [Scripting](pages/scripting/scripting-talon.html)
-
-
+# Talon for Dragon Users
 
 To research:
 - lists: absolutely critical for Outlook
